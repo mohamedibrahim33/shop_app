@@ -1,16 +1,11 @@
 # shop_app
 
-A new Flutter application.
+flutter e-Commerce application using Bloc, Dio, and shared preferences.
 
-## Getting Started
+Onboarding screens with skip button. Login and register screens with form validation and shared preferences to save user’s token to see if he/she logged before so the app navigates directly to the home screen. Beautiful home screen with the search bar. The bottom navigation bar moves fast between screens. 4 screens one for products and one for favorites and one for categories. And finally, the settings screen so you can change your data or sign out.
 
-This project is a starting point for a Flutter application.
+![shop_app1](https://user-images.githubusercontent.com/99914704/157897026-77d55ba1-8dbc-41e9-bd7b-c17673a38e7a.png)
 
-A few resources to get you started if this is your first Flutter project:
+Hello in Shop App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![shop_app2](https://user-images.githubusercontent.com/99914704/157897047-899eee39-f963-4780-82bb-39a55331f54a.png)
